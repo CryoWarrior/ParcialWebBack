@@ -1,13 +1,13 @@
-package com.parcial_back.parcial_web_back;
+package com.parcial.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ParcialWebBackApplication {
+public class WebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ParcialWebBackApplication.class, args);
+		SpringApplication.run(WebApplication.class, args);
 	}
 
 }

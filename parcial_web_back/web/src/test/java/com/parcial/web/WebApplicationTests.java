@@ -1,10 +1,10 @@
-package com.parcial_back.parcial_web_back;
+package com.parcial.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ParcialWebBackApplicationTests {
+class WebApplicationTests {
 
 	@Test
 	void contextLoads() {
